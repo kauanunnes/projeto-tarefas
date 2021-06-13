@@ -20,5 +20,13 @@
      <li>Para utilizar basta clonar em sua máquina e rodar um npm i na pasta do projeto.</li>
      <li>Comece com npm start.</li>
    </ul>
- </p> 
+ </p>
+ <p href="#utilizacao">Capturas de tela
+ <h1 align="center">
+  <img alt="CapturaDeTela1" title="#Aplicacao" src="./assets/images/first-screenshot.png" />
+ </h1>
+ <h1 align="center">
+  <img alt="CapturaDeTela2" title="#Aplicacao" src="./assets/images/second-screenshot.png" />
+ </h1>
+ </p>
 </p>
