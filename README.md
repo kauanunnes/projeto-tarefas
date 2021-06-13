@@ -1,15 +1,32 @@
-# Projeto feito em React
-
-Este projeto foi criado inteiramente em React com intuito de treinar os conteúdos adquiridos em um curso. 
-
-Tal aplicação utiliza o Local Storage para armazenar as tarefas do usuário. O sistema é bem simples!
-
-# Suas funções são de:
-`1. Adicionar tarefas`
-`2. Editar tarefas`
-`3. Deletar tarefas`
-`4. Listar tarefas`
-
-# Utilização
-Para utilizar basta clonar em sua máquina e rodar um `npm i` na pasta do projeto.
-Comece com `npm start`.
+<h1 align="center">Lista de Tarefas</h1>
+<h2 align="center">Guie-se por aqui!</h2>
+<p align="center">
+ <p href="#objetivo">Objetivo: Este projeto foi criado inteiramente em React com intuito de treinar os conteúdos adquiridos em um curso. </p>
+ <p href="#tecnologias">Tecnologias: 
+   <h4>
+    <a href="https://pt-br.reactjs.org/">• React</a>
+  </h4>
+ </p>
+ <p href="#funcoes">Funções: 
+   <ul>
+     <li>Adicionar tarefas</li>
+     <li>Editar tarefas</li>
+     <li>Deletar tarefas</li>
+     <li>Listar tarefas</li>
+   </ul>
+ </p>
+ <p href="#utilizacao">Utilização
+   <ul>
+     <li>Para utilizar basta clonar em sua máquina e rodar um npm i na pasta do projeto.</li>
+     <li>Comece com npm start.</li>
+   </ul>
+ </p>
+ <p href="#utilizacao">Capturas de tela
+ <h1 align="center">
+  <img alt="CapturaDeTela1" title="#Aplicacao" src="./assets/images/first-screenshot.png" />
+ </h1>
+ <h1 align="center">
+  <img alt="CapturaDeTela2" title="#Aplicacao" src="./assets/images/second-screenshot.png" />
+ </h1>
+ </p>
+</p>
