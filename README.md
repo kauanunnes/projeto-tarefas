@@ -1,6 +1,6 @@
 # Projeto feito em React
 
-Este projeto foi criado inteiramente em [React] com intuito de treinar os conteúdos adquiridos em um curso. 
+Este projeto foi criado inteiramente em React com intuito de treinar os conteúdos adquiridos em um curso. 
 
 Tal aplicação utiliza o Local Storage para armazenar as tarefas do usuário. O sistema é bem simples!
 
